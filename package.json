@@ -2,9 +2,9 @@
   "name": "todo-list-v1",
   "version": "1.0.0",
   "description": "Todo List Version 1",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
 
   },
   "author": "Vishesh Pahwa",
